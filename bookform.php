@@ -23,7 +23,7 @@
                             placeholder="Description"></textarea>
                     </div>
                     <div class="text-end">
-                        <button class="sendform-btn">send</button>
+                        <button class="btn sendform-btn">send</button>
                     </div>
                 </form>
             </div>

@@ -1,6 +1,6 @@
 <?php include('header.php') ?>
 <style>
-    .contactform{
+    .contactform {
         margin-bottom: 160px;
     }
 </style>
@@ -46,15 +46,36 @@
             <div class="col-lg-10">
                 <div class="row gy-4 gy-sm-3 gy-md-0">
                     <div class="col-lg-4 d-flex justify-content-center">
-                        <div class="card contactcard border-0">
+                        <div class="card contactcard overflow-hidden border-0">
+                            <div
+                                class="card-header bg-transparent border-0 p-4 d-flex justify-content-center align-items-center">
+                                <i class="bi bi-telephone display-1"></i>
+                            </div>
+                            <div class="card-body d-flex justify-content-center align-items-end">
+                                <span class="text-center fs-5">Make a call</span>
+                            </div>
                         </div>
                     </div>
                     <div class="col-lg-4 d-flex justify-content-center">
-                        <div class="card contactcard border-0">
+                        <div class="card contactcard overflow-hidden border-0">
+                            <div
+                                class="card-header bg-transparent border-0 p-4 d-flex justify-content-center align-items-center">
+                                <i class="bi bi-envelope-open display-1"></i>
+                            </div>
+                            <div class="card-body d-flex justify-content-center align-items-end">
+                                <span class="text-center fs-5">Send a mail</span>
+                            </div>
                         </div>
                     </div>
                     <div class="col-lg-4 d-flex justify-content-center">
-                        <div class="card contactcard border-0">
+                        <div class="card contactcard overflow-hidden border-0">
+                            <div
+                                class="card-header bg-transparent border-0 p-4 d-flex justify-content-center align-items-center">
+                                <i class="bi bi-whatsapp display-1"></i>
+                            </div>
+                            <div class="card-body d-flex justify-content-center align-items-end">
+                                <span class="text-center fs-5">Whatsapp</span>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -64,7 +85,7 @@
             <div class="col-lg-4">
                 <h4 class="form_head">Plan your dream wedding now</h4>
             </div>
-            <div class="col-lg-8">
+            <div class="col-lg-8">laas
                 <form action="" class="row gy-4 contactform">
                     <div class="col-lg-6">
                         <input type="text" class="form-control inputcontrol p-3" placeholder="First Name" />

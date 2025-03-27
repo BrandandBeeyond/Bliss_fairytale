@@ -157,16 +157,22 @@
     <img loading="lazy" src="assets/img/ourworkdhabba.png" class="img-fluid workcut" alt="" />
     <div class="ourworkoverlay"></div>
     <h4 class="text-head sec_title worktitle">our work</h4>
-    <div id="carouselExample" class="carousel slide carousel-fade">
+    <div id="carouselExample" class="carousel slide carousel-fade" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="assets/img/crafted_decor.jpg" class="d-block w-100 img-fluid workslide1" alt="...">
+                <img src="assets/img/ourwork/work1.jpg" class="d-block w-100 img-fluid workslide1" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="..." class="d-block w-100" alt="...">
+                <img src="assets/img/ourwork/work3.jpg" class="d-block w-100 img-fluid workslide2" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="..." class="d-block w-100" alt="...">
+                <img src="assets/img/ourwork/work4.jpg" class="d-block w-100 img-fluid workslide2" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="assets/img/ourwork/work2.jpg" class="d-block w-100 img-fluid workslide2" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="assets/img/ourwork/work5.jpg" class="d-block w-100 img-fluid workslide2" alt="...">
             </div>
         </div>
         <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">

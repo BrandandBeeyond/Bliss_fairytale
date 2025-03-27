@@ -243,17 +243,17 @@
         });
     });
     if (window.location.pathname.endsWith("index.php") && window.innerWidth <= 768) {
-    document.addEventListener("DOMContentLoaded", function () {
-        document.querySelector(".footermain").style.marginTop = "-237px";
-    });
-}
-gsap.registerPlugin(ScrollTrigger);
+        document.addEventListener("DOMContentLoaded", function () {
+            document.querySelector(".footermain").style.marginTop = "-237px";
+        });
+    }
+    gsap.registerPlugin(ScrollTrigger);
 
-gsap.to("html, body", {
-  scrollBehavior: "smooth",
-  duration: 1,
-  ease: "power1.out",
-});
+    gsap.to("html, body", {
+        scrollBehavior: "smooth",
+        duration: 1,
+        ease: "power1.out",
+    });
 </script>
 
 </body>

@@ -42,7 +42,7 @@
                                             <div class="main-menu position-relative">
                                                 <img loading="lazy" src="assets/img/header_dhabba.svg" class="img-fluid dhabbaheader"
                                                     alt="">
-                                                <ul class="list-unstyled text-center text-sm-center text-md-start">
+                                                <ul class="list-unstyled d-flex flex-column justify-content-center justify-content-md-start align-items-center align-items-md-start text-center text-sm-center text-md-start">
                                                     <li class="menu-item py-3">
                                                         <a href="index.php" class="">
                                                             <img loading="lazy" src="assets/img/fairytale_black.png"

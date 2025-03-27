@@ -103,7 +103,7 @@ window.addEventListener("load", function () {
         trigger: why_us,
         start: "top top+=0",
         end: "+=3000",
-        scrub: true,
+        scrub: 2,
         pin: true,
         //            snap: 1 / (sections.length - 1),
         //            end: () => "+=" + elemWidth,
@@ -117,3 +117,10 @@ window.addEventListener("load", function () {
 });
 
 
+const btnElement = document.getElementById("clickable")
+document.addEventListener("DOMContentLoaded",function(){
+  btnElement.addEventListener("click",function(){
+      console.log("btn is cliked");
+      
+  })
+})

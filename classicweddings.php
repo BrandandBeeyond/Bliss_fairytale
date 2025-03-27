@@ -174,7 +174,7 @@
                             of your dream celebratio...
                         </p>
                     </div>
-                    <div class="sec_para"data-aos="fade-up" data-aos-duration="1000" data-aos-offset="100">
+                    <div class="sec_para" data-aos="fade-up" data-aos-duration="1000" data-aos-offset="100">
                         <p>
                             For generations, weddings at Taj Hotels are synonymous with
                             cherished memories. Embark on a journey of timeless romance

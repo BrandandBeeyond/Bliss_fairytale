@@ -105,12 +105,12 @@
                     <span>1.</span>
                 </div>
                 <div class="row">
-                    <div class="col-lg-6">
+                    <div class="col-lg-5">
                         <div class="vow-desk-img">
                             <img src="assets/img/crafted_decor.jpg" class="img-fluid" alt="">
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-7">
                         <div class="mt-5 py-5">
                             <h2 class="text-vow-desk">scenic Venue</h2>
                             <ul class="mt-3">
@@ -168,19 +168,19 @@
                     </div>
                 </div>
             </div>
-            <div class="h-section second position-relative">
+            <div class="h-section third position-relative">
                 <div class="vow-num">
-                    <span>1.</span>
+                    <span>2.</span>
                 </div>
                 <div class="row">
-                    <div class="col-lg-6">
+                    <div class="col-lg-5">
                         <div class="vow-desk-img">
-                            <img src="assets/img/crafted_decor.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/vows/nutri_food.png" class="img-fluid object-fit-cover" alt="">
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-7">
                         <div class="mt-5 py-5">
-                            <h2 class="text-vow-desk">scenic Venue</h2>
+                            <h2 class="text-vow-desk">Nutridelicious Food</h2>
                             <ul class="mt-3">
                                 <li>
                                     <div class="vowsec_para my-3">
@@ -236,7 +236,282 @@
                     </div>
                 </div>
             </div>
+            <div class="h-section fourth position-relative">
+                <div class="vow-num">
+                    <span>3.</span>
+                </div>
+                <div class="row">
+                    <div class="col-lg-5">
+                        <div class="vow-desk-img">
+                            <img src="assets/img/vows/integrated_stay.jpg" class="img-fluid" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-7">
+                        <div class="mt-5 py-5">
+                            <h2 class="text-vow-desk">Nature integrated Stay</h2>
+                            <ul class="mt-3">
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Location</strong></p>
+                                        <p class="mb-0">• IGATPURI - On scenic Bhavli Dam road, at the wellness capital
+                                            of
+                                            India</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Surrounded By</strong></p>
+                                        <p class="mb-0">• Sahyadri Ranges</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Connectivity</strong></p>
+                                        <p class="mb-0">• Mumbai - Agra highway - 3 Kms</p>
+                                        <p class="mb-0">• Samruddhi Highway - 1 KMs</p>
+                                        <p class="mb-0">• Igatpuri railway station - 8 Kms (15 mins)</p>
+                                        <p class="mb-0">• Kasara railway station - 25 Kms (30 Mins)</p>
+                                        <p class="mb-0">• Ozhar airport (Nashik) - 68 Kms (1.5 Hrs)</p>
+                                        <p class="mb-0">• Mumbai international airport - 130 Kms (3 Hrs)</p>
+                                    </div>
+                                </li>
+                            </ul>
+                            <ul class="mt-3">
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Location</strong></p>
+                                        <p class="mb-0">• IGATPURI - On scenic Bhavli Dam road, at the wellness capital
+                                            of India</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Surrounded By</strong></p>
+                                        <p class="mb-0">• Sahyadri Ranges</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Connectivity</strong></p>
+                                        <p class="mb-0">• Mumbai - Agra highway - 3 Kms</p>
+                                    </div>
+                                </li>
+                            </ul>
 
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="h-section fifth position-relative">
+                <div class="vow-num">
+                    <span>4.</span>
+                </div>
+                <div class="row">
+                    <div class="col-lg-5">
+                        <div class="vow-desk-img">
+                            <img src="assets/img/vows/wedd_essentials.jpg" class="img-fluid object-fit-cover" style="object-position:bottom" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-7">
+                        <div class="mt-5 py-5">
+                            <h2 class="text-vow-desk">Wedding <br> Essentials
+                            </h2>
+                            <ul class="mt-3">
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Location</strong></p>
+                                        <p class="mb-0">• IGATPURI - On scenic Bhavli Dam road, at the wellness capital
+                                            of
+                                            India</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Surrounded By</strong></p>
+                                        <p class="mb-0">• Sahyadri Ranges</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Connectivity</strong></p>
+                                        <p class="mb-0">• Mumbai - Agra highway - 3 Kms</p>
+                                        <p class="mb-0">• Samruddhi Highway - 1 KMs</p>
+                                        <p class="mb-0">• Igatpuri railway station - 8 Kms (15 mins)</p>
+                                        <p class="mb-0">• Kasara railway station - 25 Kms (30 Mins)</p>
+                                        <p class="mb-0">• Ozhar airport (Nashik) - 68 Kms (1.5 Hrs)</p>
+                                        <p class="mb-0">• Mumbai international airport - 130 Kms (3 Hrs)</p>
+                                    </div>
+                                </li>
+                            </ul>
+                            <ul class="mt-3">
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Location</strong></p>
+                                        <p class="mb-0">• IGATPURI - On scenic Bhavli Dam road, at the wellness capital
+                                            of India</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Surrounded By</strong></p>
+                                        <p class="mb-0">• Sahyadri Ranges</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Connectivity</strong></p>
+                                        <p class="mb-0">• Mumbai - Agra highway - 3 Kms</p>
+                                    </div>
+                                </li>
+                            </ul>
+
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="h-section sixth position-relative">
+                <div class="vow-num">
+                    <span>5.</span>
+                </div>
+                <div class="row">
+                    <div class="col-lg-5">
+                        <div class="vow-desk-img">
+                            <img src="assets/img/vows/creative_decor.jpg" class="img-fluid object-fit-cover" style="object-position:30% 20%;" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-7">
+                        <div class="mt-5 py-5">
+                            <h2 class="text-vow-desk"> Creative Decor
+                            </h2>
+                            <ul class="mt-3">
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Location</strong></p>
+                                        <p class="mb-0">• IGATPURI - On scenic Bhavli Dam road, at the wellness capital
+                                            of
+                                            India</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Surrounded By</strong></p>
+                                        <p class="mb-0">• Sahyadri Ranges</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Connectivity</strong></p>
+                                        <p class="mb-0">• Mumbai - Agra highway - 3 Kms</p>
+                                        <p class="mb-0">• Samruddhi Highway - 1 KMs</p>
+                                        <p class="mb-0">• Igatpuri railway station - 8 Kms (15 mins)</p>
+                                        <p class="mb-0">• Kasara railway station - 25 Kms (30 Mins)</p>
+                                        <p class="mb-0">• Ozhar airport (Nashik) - 68 Kms (1.5 Hrs)</p>
+                                        <p class="mb-0">• Mumbai international airport - 130 Kms (3 Hrs)</p>
+                                    </div>
+                                </li>
+                            </ul>
+                            <ul class="mt-3">
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Location</strong></p>
+                                        <p class="mb-0">• IGATPURI - On scenic Bhavli Dam road, at the wellness capital
+                                            of India</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Surrounded By</strong></p>
+                                        <p class="mb-0">• Sahyadri Ranges</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Connectivity</strong></p>
+                                        <p class="mb-0">• Mumbai - Agra highway - 3 Kms</p>
+                                    </div>
+                                </li>
+                            </ul>
+
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="h-section sixth position-relative">
+                <div class="vow-num">
+                    <span>6.</span>
+                </div>
+                <div class="row">
+                    <div class="col-lg-5">
+                        <div class="vow-desk-img">
+                            <img src="assets/img/vows/creative_communication.jpg" class="img-fluid object-fit-cover" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-7">
+                        <div class="mt-5 py-5">
+                            <h2 class="text-vow-desk"> Creative Communication
+                            </h2>
+                            <ul class="mt-3">
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Location</strong></p>
+                                        <p class="mb-0">• IGATPURI - On scenic Bhavli Dam road, at the wellness capital
+                                            of
+                                            India</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Surrounded By</strong></p>
+                                        <p class="mb-0">• Sahyadri Ranges</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Connectivity</strong></p>
+                                        <p class="mb-0">• Mumbai - Agra highway - 3 Kms</p>
+                                        <p class="mb-0">• Samruddhi Highway - 1 KMs</p>
+                                        <p class="mb-0">• Igatpuri railway station - 8 Kms (15 mins)</p>
+                                        <p class="mb-0">• Kasara railway station - 25 Kms (30 Mins)</p>
+                                        <p class="mb-0">• Ozhar airport (Nashik) - 68 Kms (1.5 Hrs)</p>
+                                        <p class="mb-0">• Mumbai international airport - 130 Kms (3 Hrs)</p>
+                                    </div>
+                                </li>
+                            </ul>
+                            <ul class="mt-3">
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Location</strong></p>
+                                        <p class="mb-0">• IGATPURI - On scenic Bhavli Dam road, at the wellness capital
+                                            of India</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Surrounded By</strong></p>
+                                        <p class="mb-0">• Sahyadri Ranges</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="vowsec_para my-3">
+                                        <p class="mb-0"><strong>Connectivity</strong></p>
+                                        <p class="mb-0">• Mumbai - Agra highway - 3 Kms</p>
+                                    </div>
+                                </li>
+                            </ul>
+
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+          
         </div>
     </div>
 </section>
@@ -309,9 +584,9 @@
                 <div class="card vowcard sticky-card overflow-hidden">
                     <div class="card-body vowcardbody text-center p-0">
                         <div class="p-3">
-                            <h4 class="vowhead">1.</h4>
+                            <h4 class="vowhead">2.</h4>
                             <div class="mt-3">
-                                <h3 class="vow-subtext">scenic Venue </h3>
+                                <h3 class="vow-subtext">Nutridelicious Food </h3>
                                 <div class="vowsec_para my-3">
                                     <p> Once the wedding day/events came, we didn't have to worry about a thing and
                                         could
@@ -354,7 +629,7 @@
                             </div>
                         </div>
                         <div class="object-fit-cover">
-                            <img src="assets/img/crafted_decor.jpg" class="img-fluid rounded-4" alt="">
+                            <img src="assets/img/vows/nutri_food.png" class="img-fluid rounded-4" alt="">
                         </div>
                     </div>
 
@@ -362,9 +637,9 @@
                 <div class="card vowcard sticky-card overflow-hidden">
                     <div class="card-body vowcardbody text-center p-0">
                         <div class="p-3">
-                            <h4 class="vowhead">1.</h4>
+                            <h4 class="vowhead">3.</h4>
                             <div class="mt-3">
-                                <h3 class="vow-subtext">scenic Venue </h3>
+                                <h3 class="vow-subtext">Nature integrated Stay</h3>
                                 <div class="vowsec_para my-3">
                                     <p> Once the wedding day/events came, we didn't have to worry about a thing and
                                         could
@@ -407,7 +682,7 @@
                             </div>
                         </div>
                         <div class="object-fit-cover">
-                            <img src="assets/img/crafted_decor.jpg" class="img-fluid rounded-4" alt="">
+                            <img src="assets/img/vows/integrated_stay.jpg" class="img-fluid rounded-4" alt="">
                         </div>
                     </div>
 
@@ -415,9 +690,9 @@
                 <div class="card vowcard sticky-card overflow-hidden">
                     <div class="card-body vowcardbody text-center p-0">
                         <div class="p-3">
-                            <h4 class="vowhead">1.</h4>
+                            <h4 class="vowhead">4.</h4>
                             <div class="mt-3">
-                                <h3 class="vow-subtext">scenic Venue </h3>
+                                <h3 class="vow-subtext">Wedding Essentials </h3>
                                 <div class="vowsec_para my-3">
                                     <p> Once the wedding day/events came, we didn't have to worry about a thing and
                                         could
@@ -460,7 +735,7 @@
                             </div>
                         </div>
                         <div class="object-fit-cover">
-                            <img src="assets/img/crafted_decor.jpg" class="img-fluid rounded-4" alt="">
+                            <img src="assets/img/vows/wedd_essentials.jpg" class="img-fluid rounded-4" alt="">
                         </div>
                     </div>
 
@@ -468,9 +743,9 @@
                 <div class="card vowcard sticky-card overflow-hidden">
                     <div class="card-body vowcardbody text-center p-0">
                         <div class="p-3">
-                            <h4 class="vowhead">1.</h4>
+                            <h4 class="vowhead">5.</h4>
                             <div class="mt-3">
-                                <h3 class="vow-subtext">scenic Venue </h3>
+                                <h3 class="vow-subtext">Creative Decor </h3>
                                 <div class="vowsec_para my-3">
                                     <p> Once the wedding day/events came, we didn't have to worry about a thing and
                                         could
@@ -513,7 +788,60 @@
                             </div>
                         </div>
                         <div class="object-fit-cover">
-                            <img src="assets/img/crafted_decor.jpg" class="img-fluid rounded-4" alt="">
+                            <img src="assets/img/vows/creative_decor.jpg" class="img-fluid rounded-4" alt="">
+                        </div>
+                    </div>
+
+                </div>
+                <div class="card vowcard sticky-card overflow-hidden">
+                    <div class="card-body vowcardbody text-center p-0">
+                        <div class="p-3">
+                            <h4 class="vowhead">6.</h4>
+                            <div class="mt-3">
+                                <h3 class="vow-subtext">Creative Communication </h3>
+                                <div class="vowsec_para my-3">
+                                    <p> Once the wedding day/events came, we didn't have to worry about a thing and
+                                        could
+                                        spend time with our guests/family and enjoyed our wedding. </p>
+                                </div>
+                                <div class="vowsec_para">
+                                    <p>Location </p>
+                                    <ul class="list-unstyled">
+                                        <li>
+                                            <div class="vowsec_para my-3">
+                                                <p class="mb-0">• IGATPURI - On scenic bhavli dam road, at the
+                                                    wellness capital of india
+                                                    Surrounded By
+
+                                                </p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="vowsec_para my-3">
+                                                <p class="mb-0">• Sahyadri Ranges
+                                                    Connectivity
+                                                </p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="vowsec_para my-3">
+                                                <p class="mb-0">• Mumbai - Agra highway - 3 Kms
+                                                </p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="vowsec_para my-3">
+                                                <p class="mb-0">• Samruddhi Highway - 1 KMs
+                                                </p>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="object-fit-cover">
+                            <img src="assets/img/vows/creative_communication.jpg" class="img-fluid rounded-4" alt="">
                         </div>
                     </div>
 
@@ -643,7 +971,7 @@
                 <h4 class="form_head">Plan your dream wedding now</h4>
             </div>
             <div class="col-lg-8">
-                <form action="" class="row mt-4 gy-4">
+                <form action="" class="row mt-4 mb-5 pb-5 gy-4">
                     <div class="col-lg-6 col-6">
                         <input type="text" class="form-control inputcontrol p-2 p-sm-3 p-md-3"
                             placeholder="First Name" />
@@ -710,7 +1038,7 @@
                         trigger: image,
                         start: () => `center center`,
                         endTrigger: "#end-vow",
-                        end: () => `top-=300 bottom-=300`,
+                        end: () => `top-=10 bottom-=10`,
                         scrub: true,
                         pin: true,
                         pinSpacing: false,

@@ -88,7 +88,7 @@ body {
 .horizontal-scroll-1 {
   display: grid;
   grid-auto-flow: column;
-  grid-template-columns: repeat(6, 100%);
+  grid-template-columns: repeat(7, 100%);
   grid-template-rows: auto;
 }
 
@@ -100,7 +100,7 @@ body {
   overflow: hidden;
 }
 
-.h-section.second {
+.h-section.second,.h-section.third,.h-section.fourth,.h-section.fifth,.h-section.sixth,.h-section.seventh {
   background: url("../img/banners/vowbg.png");
   background-size: cover;
   height: 100vh;
@@ -108,8 +108,8 @@ body {
 }
 
 .vow-desk-img img {
-  height: 800px;
-  width: 800px;
+  height: 650px;
+  width: 650px;
   border-radius: 70%;
   position: relative;
   bottom: -200px;
@@ -525,6 +525,10 @@ body {
 }
 .workslide1 {
   object-position: top;
+  position: relative;
+}
+.workslide2 {
+  object-position: bottom;
   position: relative;
 }
 
@@ -1125,7 +1129,7 @@ body {
   margin-top: 20px;
 }
 .sticky-sidebar {
-  position: sticky;
+  position: sticky !important;
   top: 0;
 }
 .gallery-sec {
@@ -3110,6 +3114,8 @@ body {
     background-color: #ffa3c0;
     color: #ffffff;
     cursor: pointer;
+    position: relative;
+    z-index: 222;
   }
   .vows {
     background-position: center;
@@ -3168,7 +3174,7 @@ body {
   .vow-subtext {
     font-family: "Aboreto", serif;
     font-weight: 400;
-    font-size: 40px;
+    font-size: 28px;
     line-height: 100%;
     letter-spacing: 0%;
     color: #292929;
