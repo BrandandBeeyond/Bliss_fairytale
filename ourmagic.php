@@ -395,7 +395,7 @@
                   </div>
                 </div>
                 <div class="col-lg-7">
-                  <ul class="mt-3">
+                  <ul class="mt-3 d-none d-sm-none d-md-block">
                     <li class="py-1">
                       For generations, weddings at Taj Hotels.
                     </li>
@@ -412,7 +412,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-lg-6 order-1 order-md-3">
+            <div class="col-lg-6 order-1 order-md-3 d-flex justify-content-end pe-0 pe-sm-2 pe-md-2">
               <div class="wedding-type position-relative">
                 <img loading="lazy" src="assets/img/flowers_well.svg" class="img-fluid flower_well" alt="" />
               </div>
@@ -421,7 +421,7 @@
 
 
 
-          <div class="row flex-row-reverse position-relative align-items-center py-5">
+          <!-- <div class="row flex-row-reverse position-relative align-items-center py-5">
             <div class="dhabba-right-wedtr">
               <img loading="lazy" src="assets/img/dhabba_diff.svg" class="img-fluid" alt="" />
             </div>
@@ -441,7 +441,7 @@
                   </div>
                 </div>
                 <div class="col-lg-7">
-                  <ul class="mt-3">
+                  <ul class="mt-3 d-none d-sm-none d-md-block">
                     <li class="py-1">
                       For generations, weddings at Taj Hotels.
                     </li>
@@ -463,54 +463,8 @@
                 <img loading="lazy" src="assets/img/flowers_well.svg" class="img-fluid flower_well_left tr-minus-scale" alt="" />
               </div>
             </div>
-          </div>
+          </div> -->
 
-
-
-
-          <div class="row position-relative align-items-center py-5">
-            <div class="dhabba-left-wedtr">
-              <img loading="lazy" src="assets/img/dhabba_diff.svg" class="img-fluid" alt="" />
-            </div>
-            <div class="col-lg-6">
-              <div class="position-relative">
-                <h4 class="text-head sec_title sphead">Summer wedding</h4>
-                <img loading="lazy" src="assets/img/btmleaves.png" class="img-fluid btmleaves" alt="" />
-              </div>
-              <div class="row justify-content-center">
-                <div class="col-lg-8">
-                  <div class="sec_para pt-5 mt-4">
-                    <p>
-                      For generations, weddings at Taj Hotels are
-                      synonymous with cherished memories. Embark on a
-                      journey of timeless romance as.
-                    </p>
-                  </div>
-                </div>
-                <div class="col-lg-7">
-                  <ul class="mt-3">
-                    <li class="py-1">
-                      For generations, weddings at Taj Hotels.
-                    </li>
-                    <li class="py-1">
-                      For generations, weddings at Taj Hotels.
-                    </li>
-                    <li class="py-1">
-                      For generations, weddings at Taj Hotels.
-                    </li>
-                    <li class="py-1">
-                      For generations, weddings at Taj Hotels.
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-6">
-              <div class="wedding-type position-relative">
-                <img loading="lazy" src="assets/img/flowers_well.svg" class="img-fluid flower_well" alt="" />
-              </div>
-            </div>
-          </div>
 
 
 
@@ -518,7 +472,7 @@
             <div class="dhabba-right-wedtr">
               <img loading="lazy" src="assets/img/dhabba_diff.svg" class="img-fluid" alt="" />
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-6 order-3 order-md-1">
               <div class="position-relative">
                 <h4 class="text-head sec_title sphead">Winter wedding</h4>
                 <img loading="lazy" src="assets/img/btmleaves.png" class="img-fluid btmleaves" alt="" />
@@ -534,7 +488,7 @@
                   </div>
                 </div>
                 <div class="col-lg-7">
-                  <ul class="mt-3">
+                  <ul class="mt-3 d-none d-sm-none d-md-block">
                     <li class="py-1">
                       For generations, weddings at Taj Hotels.
                     </li>
@@ -551,13 +505,61 @@
                 </div>
               </div>
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-6 order-1 order-md-3 ps-0 ps-sm-2 ps-md-2">
               <div class="wedding-type position-relative">
                 <img loading="lazy" src="assets/img/flowers_well.svg" class="img-fluid flower_well_left tr-minus-scale" alt="" />
               </div>
             </div>
           </div>
 
+
+          <div class="row position-relative align-items-center py-5">
+            <div class="dhabba-left-wedtr">
+              <img loading="lazy" src="assets/img/dhabba_diff.svg" class="img-fluid" alt="" />
+            </div>
+            <div class="col-lg-6 order-3 order-md-1">
+              <div class="position-relative">
+                <h4 class="text-head sec_title sphead">Summer wedding</h4>
+                <img loading="lazy" src="assets/img/btmleaves.png" class="img-fluid btmleaves" alt="" />
+              </div>
+              <div class="row justify-content-center">
+                <div class="col-lg-8">
+                  <div class="sec_para pt-5 mt-4">
+                    <p>
+                      For generations, weddings at Taj Hotels are
+                      synonymous with cherished memories. Embark on a
+                      journey of timeless romance as.
+                    </p>
+                  </div>
+                </div>
+                <div class="col-lg-7">
+                  <ul class="mt-3 d-none d-sm-none d-md-block">
+                    <li class="py-1">
+                      For generations, weddings at Taj Hotels.
+                    </li>
+                    <li class="py-1">
+                      For generations, weddings at Taj Hotels.
+                    </li>
+                    <li class="py-1">
+                      For generations, weddings at Taj Hotels.
+                    </li>
+                    <li class="py-1">
+                      For generations, weddings at Taj Hotels.
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-6 order-1 order-md-3 d-flex justify-content-end pe-0 pe-sm-2 pe-md-2">
+              <div class="wedding-type position-relative">
+                <img loading="lazy" src="assets/img/flowers_well.svg" class="img-fluid flower_well" alt="" />
+              </div>
+            </div>
+          </div>
+
+
+
+        
 
         </div>
       </div>

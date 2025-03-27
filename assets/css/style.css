@@ -2585,9 +2585,9 @@ body {
       rgba(255, 248, 248, 0) 100%
     );
   }
-  .workslide1 {
+  .workslide1,.workslide2 {
     position: relative;
-    height: 728px;
+    height: 550px;
     object-fit: cover;
   }
   .ourwork {
