@@ -49,7 +49,9 @@
                             class="img-fluid craft_swagat_child" alt="" data-aos="flip-up" data-aos-duration="1000" data-aos-offset="100"/>
                     </div>
                 </div>
-                <div class="col-lg-6 col-6 d-flex align-items-center flex-column">
+                <div class="col-lg-6 col-6 d-flex align-items-center flex-column position-relative">
+                <img loading="lazy" src="assets/img/dhabba_mid.svg" class="img-fluid dhabba dhabba-right"
+                alt="">
                     <h3 class="classic_heads" data-aos="fade-up" data-aos-duration="1000" data-aos-offset="100">Guest Swagat</h3>
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
@@ -72,7 +74,8 @@
         <div class="row justify-content-center">
             <div class="col-lg-12">
                 <div class="row align-items-center">
-                    <div class="col-lg-6 col-6">
+                    <div class="col-lg-6 col-6 position-relative">
+                        <img loading="lazy" src="assets/img/dhabba_mid.svg" class="img-fluid dhabba dhabba-left" alt="">
                         <h3 class="classic_heads text-center"data-aos="fade-up" data-aos-duration="1000" data-aos-offset="100">haldi</h3>
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
@@ -120,6 +123,7 @@
                     </div>
                     <div class="col-lg-8 col-8 d-flex justify-content-end flex-column craft_sangeet">
                         <div class="position-relative">
+                        <img loading="lazy" src="assets/img/dhabba_mid.svg" class="img-fluid dhabba dhabba-right" alt="">
                             <h3 class="classic_heads text-center"data-aos="fade-up" data-aos-duration="1000" data-aos-offset="100">Sangeet</h3>
                             <img loading="lazy" src="assets/img/ring.svg" class="img-fluid sangeet_ring" alt="" />
                         </div>
@@ -158,7 +162,8 @@
                                 data-aos-duration="1000" data-aos-offset="100" class="img-fluid craftedentry2" alt="" />
                         </div>
                     </div>
-                    <div class="col-lg-6 col-6 d-flex justify-content-center flex-column align-items-center pt-5">
+                    <div class="col-lg-6 col-6 d-flex justify-content-center flex-column align-items-center position-relative pt-5">
+                    <img loading="lazy" src="assets/img/dhabba_mid.svg" class="img-fluid dhabba dhabba-left" alt="">
                         <h3 class="classic_heads"data-aos="fade-up" data-aos-duration="1000" data-aos-offset="100">Grand Entries</h3>
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
@@ -230,7 +235,8 @@
                         alt="">
                 </div>
             </div>
-            <div class="col-lg-6 col-6 d-flex justify-content-center flex-column align-items-center">
+            <div class="col-lg-6 col-6 d-flex justify-content-center flex-column align-items-center position-relative">
+            <img loading="lazy" src="assets/img/dhabba_mid.svg" class="img-fluid dhabba dhabba-right" alt="">
                 <h3 class="classic_heads"data-aos="fade-up" data-aos-duration="1200" data-aos-offset="100">Reception</h3>
                 <div class="row justify-content-center">
                     <div class="col-lg-8">
