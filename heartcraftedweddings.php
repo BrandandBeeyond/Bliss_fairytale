@@ -10,8 +10,8 @@
 </section>
 
 <section class="sec-padding position-relative abtigt mt-min-4">
-<img loading="lazy" src="assets/img/leftbannerleaf.svg" class="img-fluid leftleaf" data-aos-duration="1100" data-aos="flip-down" alt="">
-<img loading="lazy" src="assets/img/rightleaf.svg" class="img-fluid rightleaf"     data-aos-duration="1100" data-aos="flip-down" alt="">
+    <img loading="lazy" src="assets/img/leftbannerleaf.svg" class="img-fluid leftleaf" data-aos-duration="1100" data-aos="flip-down" alt="">
+    <img loading="lazy" src="assets/img/rightleaf.svg" class="img-fluid rightleaf" data-aos-duration="1100" data-aos="flip-down" alt="">
     <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="col-lg-9 text-center">
@@ -24,6 +24,7 @@
                     </p>
                 </div>
                 <div class="sec_para my-2">
+                    <img loading="lazy" src="assets/img/dhabba_mid.svg" class="img-fluid dhabba dhabba-left" alt="">
                     <p class="z-up">
                         For generations, weddings at Taj Hotels are synonymous with
                         cherished memories. Embark on a journey of timeless romance as
@@ -32,7 +33,8 @@
                     </p>
                 </div>
 
-                <div class="row mt-5 pt-0 pt-sm-3 pt-md-5 g-5">
+                <div class="row mt-5 pt-0 pt-sm-3 pt-md-5 g-5 position-relative">
+
                     <div class="col-lg-4 col-4">
                         <div class="heart-wheel position-relative">
                             <img loading="lazy" src="assets/img/wheel_flower.svg" class="img-fluid w-flower-top" alt="" />
@@ -68,7 +70,8 @@
         <div class="row justify-content-center">
             <div class="col-lg-12">
                 <div class="row align-items-center">
-                    <div class="col-lg-6 col-6 d-flex align-items-center flex-column">
+                    <div class="col-lg-6 col-6 d-flex align-items-center flex-column position-relative">
+                        <img loading="lazy" src="assets/img/dhabba_mid.svg" class="img-fluid dhabba dhabba-left" alt="">
                         <h3 class="classic_heads">Guest Swagat</h3>
                         <div class="row justify-content-center">
                             <div class="col-lg-8 col-10">
@@ -106,7 +109,8 @@
                             <img loading="lazy" src="assets/img/heart_haldi3.jpeg" class="img-fluid heart_haldi3" alt="" />
                         </div>
                     </div>
-                    <div class="col-lg-6 col-6">
+                    <div class="col-lg-6 col-6 position-relative">
+                        <img loading="lazy" src="assets/img/dhabba_mid.svg" class="img-fluid dhabba dhabba-right" alt="">
                         <h3 class="classic_heads text-center">haldi</h3>
                         <div class="row justify-content-center">
                             <div class="col-lg-8 col-10">
@@ -131,8 +135,8 @@
         <div class="row justify-content-center">
             <div class="col-lg-12">
                 <div class="row align-items-center">
-                    <div class="col-lg-6 col-5">
-
+                    <div class="col-lg-6 col-5 position-relative">
+                        <img loading="lazy" src="assets/img/dhabba_mid.svg" class="img-fluid dhabba dhabba-left" alt="">
                         <div class="row justify-content-center">
                             <div class="col-lg-8 col-10">
                                 <h3 class="classic_heads text-center">Photo booth</h3>
@@ -171,7 +175,8 @@
                             <img loading="lazy" src="assets/img/mehndi3.jpeg" class="img-fluid mehndi3" alt="" />
                         </div>
                     </div>
-                    <div class="col-lg-6 col-6">
+                    <div class="col-lg-6 col-6 position-relative">
+                        <img loading="lazy" src="assets/img/dhabba_mid.svg" class="img-fluid dhabba dhabba-right" alt="">
                         <h3 class="classic_heads text-center">Mehendi</h3>
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
@@ -196,7 +201,8 @@
         <div class="row justify-content-center">
             <div class="col-lg-12">
                 <div class="row align-items-center">
-                    <div class="col-lg-6 col-6">
+                    <div class="col-lg-6 col-6 position-relative">
+                        <img loading="lazy" src="assets/img/dhabba_mid.svg" class="img-fluid dhabba dhabba-left" alt="">
                         <h3 class="classic_heads text-center">Sangeet</h3>
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
@@ -246,7 +252,8 @@
                             <img loading="lazy" src="assets/img/heart_fairytale3.png" class="img-fluid" alt="" />
                         </div>
                     </div>
-                    <div class="col-lg-6 col-6 d-flex justify-content-start">
+                    <div class="col-lg-6 col-6 d-flex justify-content-start position-relative">
+                        <img loading="lazy" src="assets/img/dhabba_mid.svg" class="img-fluid dhabba dhabba-right" alt="">
                         <div class="row justify-content-center">
                             <div class="col-lg-10 col-12">
                                 <div class="sec_para text-center">
@@ -268,7 +275,8 @@
 
     <div class="container-fluid mt-100">
         <div class="row">
-            <div class="col-lg-6 d-flex justify-content-center flex-column align-items-center">
+            <div class="col-lg-6 d-flex justify-content-center flex-column align-items-center position-relative">
+                <img loading="lazy" src="assets/img/dhabba_mid.svg" class="img-fluid dhabba dhabba-left" alt="">
                 <h3 class="classic_heads">Reception</h3>
                 <div class="row justify-content-center">
                     <div class="col-lg-8">
@@ -294,16 +302,27 @@
         </div>
     </div>
 
-    <div class="container-fluid mt-5">
-        <div class="row">
-            <div class="col-lg-5">
+    <div class="container-fluid pt-5 mt-5">
+        <div class="row justify-content-center text-center">
+            <div class="col-lg-7">
+                <h3 class="classic_heads">Thoughtful Curations</h3>
 
+                <div class="sec_para text-center">
+                    <p>
+                        For generations, weddings at Taj Hotels are synonymous
+                        with cherished memories. Embark on a journey of timeless
+                        romance as our dedicated experts ensure that every detail
+                        is a reflection of your dream celebratio...
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-5">
             </div>
             <div class="col-lg-7"></div>
         </div>
     </div>
 
-    <?php include('bookform.php')?>
+    <?php include('bookform.php') ?>
 </section>
 
 
